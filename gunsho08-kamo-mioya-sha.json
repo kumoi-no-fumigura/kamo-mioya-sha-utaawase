@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/kamo-mioya-sha-utaawase",
  "yomi": "かものみおやしゃうたあわせ",
  "category": "歌合",
- "description": null,
+ "description": {
+  "kind": "歌合（三題）",
+  "era": "建永2年（1207）3月7日",
+  "author": "主催 後鳥羽院",
+  "desc": "後鳥羽院のもとで鴨御祖社（下鴨社）に奉納された歌合。山家朝霞・湖辺夕花・社頭述懐の題で、慈円・通具・通光・丹後・有家・雅経らが詠む。"
+ },
  "editions": [
   {
    "pid": "1879502",
